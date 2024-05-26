@@ -1,3 +1,7 @@
+#Live Demo
+<a href="https://istorev1.netlify.app/" target='_blank'>istore</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
