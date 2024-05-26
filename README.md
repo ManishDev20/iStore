@@ -1,5 +1,7 @@
-#Live Demo
-<a href="https://istorev1.netlify.app/" target='_blank'>istore</a>
+##Live Demo 
+<br/>
+Netlify: <a href="https://istorev1.netlify.app/" target='_blank'>istore</a>
+Varcel: <a href="https://istorev1.netlify.app" target='_blank'>istore</a>
 
 
 # Getting Started with Create React App
